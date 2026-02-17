@@ -1,14 +1,6 @@
-# Smartflow-CRM
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Smartflow+CRM;AI+Powered+Business+Automation;Built+With+React+%26+TypeScript;Startup+Ready+CRM+Solution">
 </p>
-
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![Vite](https://img.shields.io/badge/Vite-Latest-purple?logo=vite)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
-![Stars](https://img.shields.io/github/stars/Shivam09xc/Smartflow-CRM)
-![Forks](https://img.shields.io/github/forks/Shivam09xc/Smartflow-CRM)
-![Issues](https://img.shields.io/github/issues/Shivam09xc/Smartflow-CRM)
 <p align="center">
 
 <a href="https://github.com/Shivam09xc">
@@ -24,6 +16,13 @@
 </a>
 
 </p>
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-Latest-purple?logo=vite)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+![Stars](https://img.shields.io/github/stars/Shivam09xc/Smartflow-CRM)
+![Forks](https://img.shields.io/github/forks/Shivam09xc/Smartflow-CRM)
+![Issues](https://img.shields.io/github/issues/Shivam09xc/Smartflow-CRM)
+
 
 
 🚀 AI-Driven CRM Tool for Business Automation
