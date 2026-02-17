@@ -1,4 +1,7 @@
 # Smartflow-CRM
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Smartflow+CRM;AI+Powered+Business+Automation;Built+With+React+%26+TypeScript;Startup+Ready+CRM+Solution">
+</p>
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-Latest-purple?logo=vite)
