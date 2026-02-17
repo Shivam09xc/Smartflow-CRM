@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SmartFlow CRM Enterprise",
+  "description": "A comprehensive enterprise CRM for managing sales pipelines, leads, and analytics with AI-driven insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
