@@ -1,3 +1,8 @@
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-Latest-purple?logo=vite)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Smartflow CRM
 
 ## Project Overview
