@@ -1,7 +1,14 @@
+# Smartflow-CRM
+
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-Latest-purple?logo=vite)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Stars](https://img.shields.io/github/stars/Shivam09xc/Smartflow-CRM)
+![Forks](https://img.shields.io/github/forks/Shivam09xc/Smartflow-CRM)
+![Issues](https://img.shields.io/github/issues/Shivam09xc/Smartflow-CRM)
+
+🚀 AI-Driven CRM Tool for Business Automation
+
 
 # Smartflow CRM
 
