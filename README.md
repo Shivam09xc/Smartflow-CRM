@@ -1,20 +1,65 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Smartflow CRM
 
-# Run and deploy your AI Studio app
+## Project Overview
+Smartflow CRM is a customer relationship management solution designed to help businesses manage their interactions with customers and prospects. It aims to improve customer satisfaction and retention by providing tools for customer management, sales tracking, and interaction planning.
 
-This contains everything you need to run your app locally.
+## Features
+- **Contact Management**: Easily store and manage customer and lead information.
+- **Sales Tracking**: Monitor sales processes to maximize sales opportunities.
+- **Task Management**: Create and assign tasks related to customer interactions.
+- **Analytics Dashboard**: View actionable insights through data visualizations.
+- **Integration Capabilities**: Connect with other applications and services to streamline workflows.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1IWIF9qbWKG76COf9agP_9IfSUFMNO6PK
+## Tech Stack
+- **Frontend**: React.js
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Version Control**: Git
+- **Deployment**: Heroku / AWS (optional)
 
-## Run Locally
+## Installation
+To get started with Smartflow CRM, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shivam09xc/Smartflow-CRM.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Smartflow-CRM
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Set up your environment variables as necessary.
+5. Start the application:
+   ```bash
+   npm start
+   ```
 
-**Prerequisites:**  Node.js
+## Usage
+Once the application is running, visit `http://localhost:3000` in your browser to access the application and begin managing customer relationships.
 
+## Contribution Guidelines
+We welcome contributions to Smartflow CRM! If you'd like to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b feature/new-feature
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add some feature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/new-feature
+   ```
+5. Open a pull request.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Thank you for your interest in contributing to Smartflow CRM! 
+
+---
+
+### License
+This project is licensed under the MIT License.
