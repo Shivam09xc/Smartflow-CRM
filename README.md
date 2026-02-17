@@ -6,6 +6,22 @@
 ![Stars](https://img.shields.io/github/stars/Shivam09xc/Smartflow-CRM)
 ![Forks](https://img.shields.io/github/forks/Shivam09xc/Smartflow-CRM)
 ![Issues](https://img.shields.io/github/issues/Shivam09xc/Smartflow-CRM)
+<p align="center">
+
+<a href="https://github.com/Shivam09xc">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="[https://www.linkedin.com/in/shivam-soni-159846255]">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:shivam2584@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
 
 🚀 AI-Driven CRM Tool for Business Automation
 
